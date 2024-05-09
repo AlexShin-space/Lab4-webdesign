@@ -481,7 +481,7 @@
   width: fit-content;
   box-sizing: border-box;
 }
-.title4 > h2{
+.title4 {
   margin-bottom: 27px;
   display: inline-block;
   align-self: flex-start;
